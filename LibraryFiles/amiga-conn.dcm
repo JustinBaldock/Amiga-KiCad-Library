@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A2000_CPUSLOT_EDGE_LOGICAL
+D A2000B CPUSLOT connector, board side, logical layout.
+K amiga A2000 cpuslot
+$ENDCMP
+#
+$CMP A2000_CPUSLOT_EDGE_PHYS
+D A2000B CPUSLOT connector, board side, logical layout.
+K amiga A2000 cpuslot
+$ENDCMP
+#
+$CMP A2000_Video_Slot
+D A2000B Video Slot 2 x 36 Pin Edge Connector Socket 
+K A200B Video Slot
+$ENDCMP
+#
+$CMP Zorro_II
+D Commodore Zorro II connector
+K Commodore Zorro II connector
+$ENDCMP
+#
+#End Doc Library
