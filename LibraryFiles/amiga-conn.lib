@@ -281,11 +281,11 @@ X Video_Green 9 -850 1500 100 R 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# External_Disk_Interface
+# A500_External_Disk_Interface
 #
-DEF External_Disk_Interface J 0 40 Y Y 1 F N
+DEF A500_External_Disk_Interface J 0 40 Y Y 1 F N
 F0 "J" 0 0 50 H V C CNN
-F1 "External_Disk_Interface" 0 100 50 H V C CNN
+F1 "A500_External_Disk_Interface" 0 100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
