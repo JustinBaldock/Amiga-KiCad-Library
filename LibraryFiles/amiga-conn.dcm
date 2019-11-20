@@ -15,7 +15,12 @@ D A2000 Keyboard connector. 5-pin DIN plug
 K A2000 Keyboard connector
 $ENDCMP
 #
-$CMP A2000_Video_Slot
+$CMP A2000_Video_Slot_Logical
+D A2000B Video Slot 2 x 36 Pin Edge Connector Socket
+K A200B Video Slot
+$ENDCMP
+#
+$CMP A2000_Video_Slot_Phys
 D A2000B Video Slot 2 x 36 Pin Edge Connector Socket
 K A200B Video Slot
 $ENDCMP
