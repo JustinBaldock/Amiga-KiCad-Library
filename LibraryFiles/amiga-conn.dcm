@@ -25,6 +25,11 @@ D A2000B Video Slot 2 x 36 Pin Edge Connector Socket
 K A200B Video Slot
 $ENDCMP
 #
+$CMP A500_A2000_Mouse_Port
+D Amiga 500 Amiga 2000 Mouse Port
+K Amiga 500 Amiga 2000 Mouse Port
+$ENDCMP
+#
 $CMP A500_A2000_Serial_Conn
 D A500 A2000 Serial RS232 and Midi port connector
 K A500 A2000 Serial RS232 and Midi port connector

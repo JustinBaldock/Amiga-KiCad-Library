@@ -1,5 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MC14584B
+D Hex Schmitt Trigger
+$ENDCMP
+#
+$CMP PMW3360DM-T2QU
+D PixArt Imaging's high end gaming sensor which comprises of navigation sensor and IR LED integrated in a 16pin molded lead-frame DIP package
+F https://www.codico.com/shop/media/datasheets/PixArt_PMW3360DM-T2QU%20-%20DS.pdf
+$ENDCMP
+#
 $CMP RP-SIP-180-Ohm
 F https://au.mouser.com/datasheet/2/54/4600x-776645.pdf
 $ENDCMP
